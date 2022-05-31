@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: Astra Control Center docs
+    - title: Astra Control Center 21.12 docs
       url: /index.html
     - section: release-notes
     - section: concepts
