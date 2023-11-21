@@ -1,0 +1,4 @@
+---
+permalink: concepts/licensing.html
+redirect: astra-control-center-2112/index.html
+---
